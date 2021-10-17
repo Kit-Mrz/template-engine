@@ -1,8 +1,8 @@
 <?php
 
-use Mrzkit\TemplateEngine\TemplateEngine;
-use Mrzkit\TemplateEngine\TemplateFileReader;
-use Mrzkit\TemplateEngine\TemplateFileWriter;
+use Mrzkit\TemplateReplaceEngine\TemplateEngine;
+use Mrzkit\TemplateReplaceEngine\TemplateFileReader;
+use Mrzkit\TemplateReplaceEngine\TemplateFileWriter;
 
 class TemplateEngineTester
 {

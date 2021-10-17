@@ -1,6 +1,6 @@
 <?php
 
-namespace Mrzkit\TemplateEngine\Contracts;
+namespace Mrzkit\TemplateReplaceEngine\Contracts;
 
 interface TemplateFileSaveContract
 {

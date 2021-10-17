@@ -1,6 +1,6 @@
 <?php
 
-namespace Mrzkit\TemplateEngine;
+namespace Mrzkit\TemplateReplaceEngine;
 
 use InvalidArgumentException;
 use Mrzkit\TemplateEngine\Contracts\TemplateFileContract;
