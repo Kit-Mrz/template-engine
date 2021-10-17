@@ -2,7 +2,7 @@
 
 namespace Mrzkit\TemplateReplaceEngine;
 
-use Mrzkit\TemplateEngine\Contracts\TemplateFileContract;
+use Mrzkit\TemplateReplaceEngine\Contracts\TemplateFileContract;
 
 class TemplateEngine
 {

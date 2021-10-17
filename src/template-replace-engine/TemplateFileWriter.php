@@ -2,8 +2,8 @@
 
 namespace Mrzkit\TemplateReplaceEngine;
 
-use Mrzkit\TemplateEngine\Contracts\TemplateFileContract;
-use Mrzkit\TemplateEngine\Contracts\TemplateFileSaveContract;
+use Mrzkit\TemplateReplaceEngine\Contracts\TemplateFileContract;
+use Mrzkit\TemplateReplaceEngine\Contracts\TemplateFileSaveContract;
 
 /**
  * 模板文件写入者，只负责写入文件

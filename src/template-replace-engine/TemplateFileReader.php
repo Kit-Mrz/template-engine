@@ -3,7 +3,7 @@
 namespace Mrzkit\TemplateReplaceEngine;
 
 use InvalidArgumentException;
-use Mrzkit\TemplateEngine\Contracts\TemplateFileContract;
+use Mrzkit\TemplateReplaceEngine\Contracts\TemplateFileContract;
 
 /**
  * 模板文件读取者，只负责读取文件
