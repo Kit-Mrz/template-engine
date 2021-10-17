@@ -15,5 +15,8 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {}
+    "require": {},
+    "config": {
+        "optimize-autoloader": true
+    }
 }
