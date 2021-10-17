@@ -1,8 +1,8 @@
 <?php
 
-namespace Mrzkit\TemplateReplaceEngine;
+namespace Mrzkit\TemplateEngine;
 
-use Mrzkit\TemplateReplaceEngine\Contracts\TemplateFileContract;
+use Mrzkit\TemplateEngine\Contracts\TemplateFileContract;
 
 class TemplateEngine
 {

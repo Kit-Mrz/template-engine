@@ -1,9 +1,9 @@
 <?php
 
-namespace Mrzkit\TemplateReplaceEngine;
+namespace Mrzkit\TemplateEngine;
 
 use InvalidArgumentException;
-use Mrzkit\TemplateReplaceEngine\Contracts\TemplateFileContract;
+use Mrzkit\TemplateEngine\Contracts\TemplateFileContract;
 
 /**
  * 模板文件读取者，只负责读取文件

@@ -1,9 +1,9 @@
 <?php
 
-namespace Mrzkit\TemplateReplaceEngine;
+namespace Mrzkit\TemplateEngine;
 
-use Mrzkit\TemplateReplaceEngine\Contracts\TemplateFileContract;
-use Mrzkit\TemplateReplaceEngine\Contracts\TemplateFileSaveContract;
+use Mrzkit\TemplateEngine\Contracts\TemplateFileContract;
+use Mrzkit\TemplateEngine\Contracts\TemplateFileSaveContract;
 
 /**
  * 模板文件写入者，只负责写入文件

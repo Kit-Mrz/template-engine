@@ -1,6 +1,6 @@
 <?php
 
-namespace Mrzkit\TemplateReplaceEngine;
+namespace Mrzkit\TemplateEngine;
 
 use InvalidArgumentException;
 
